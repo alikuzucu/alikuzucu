@@ -45,6 +45,8 @@ Explore my repositories for more insights into my work!
 ## 📈 GitHub Stats
 
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alikuzucu&show_icons=true&hide_title=true&hide_border=true)
+![Ali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alikuzucu&theme=vue-dark&hide_border=true)
+![Ali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alikuzucu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📬 Reach Out
 
