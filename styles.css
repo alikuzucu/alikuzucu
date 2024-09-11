@@ -257,7 +257,7 @@ a {
 }
 
 .project a {
-  color: #f7e36d; /* Yellow link for better visibility */
+  color: #f7e36d;
   text-decoration: none;
   font-weight: bold;
 }
@@ -267,9 +267,15 @@ a {
   text-decoration: underline;
 }
 
+#progress {
+  color: #f7e36d;
+  font-weight: bold;
+}
+
 #progress:hover {
   color: red;
   text-decoration: underline;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
@@ -308,6 +314,7 @@ a {
 footer {
   text-align: center;
   padding: 20px;
+  padding-bottom: 0px;
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   position: relative;
