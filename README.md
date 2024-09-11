@@ -8,6 +8,7 @@ I specialize in creating user-centered solutions that blend both front-end and b
 
 ## 🔗 Connect with Me
 
+- 🌍 **Website** [Ali Emre Kuzucu](https://alikuzucu.github.io/alikuzucu/)
 - 💼 **LinkedIn:** [Ali Emre Kuzucu](https://www.linkedin.com/in/your-profile)
 - 📧 **Email:** [alikuzucu1411@gmail.com](mailto:alikuzucu1411@gmail.com)
 
