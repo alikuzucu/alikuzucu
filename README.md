@@ -16,7 +16,7 @@ I specialize in creating user-centered solutions that blend both front-end and b
 
 Here are some of the projects I’m currently working on:
 
-- **Panelista**: A platform designed to help event organizers find and book diverse speakers, improving representation at events. [View Project](https://panelista.propulsion-learn.ch/)
+- **Panelista**: A platform designed to help event organizers find and book diverse speakers, improving representation at events. [View Project](https://panelista.ch/home)
 - **SiteSeeing**: A Google Chrome extension to rate and comment various websites.
 - **Motion**: A social media application created as a project during a bootcamp at Constructor Academy. [Project Demo](https://alikuzucu.github.io/Motion/)
 
