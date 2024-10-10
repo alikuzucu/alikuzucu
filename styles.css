@@ -119,6 +119,7 @@ a {
     padding: 30px;
     border-radius: 15px;
     margin-bottom: 20px;
+    margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
@@ -329,7 +330,7 @@ a {
 /* Contact Section */
 #contact {
     padding: 60px;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     background: rgba(255, 255, 255, 0.1);
     color: white;
     border-radius: 15px;
@@ -342,8 +343,8 @@ a {
 }
 
 .icon {
-    max-width: 45%;
-    max-height: 45%;
+    max-width: 7vh;
+    max-height: 7vw;
 }
 
 /* Footer */
