@@ -101,6 +101,14 @@ a {
     transition: background-color 0.3s ease;
 }
 
+@media (max-width: 768px) {
+    .download-btn {
+        width: 100%; /* Full width on mobile */
+        font-size: 14px; /* Smaller font size on mobile */
+        padding: 12px; /* Adjust padding */
+    }
+}
+
 .download-btn:hover {
     background-color: #216160;
 }
