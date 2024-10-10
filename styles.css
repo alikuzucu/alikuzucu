@@ -90,6 +90,21 @@ a {
     color: white;
 }
 
+.download-btn {
+    background-color: #4ba3a3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #216160;
+}
+
 /* Skills Section */
 #skills {
     background: rgba(255, 255, 255, 0.1);
