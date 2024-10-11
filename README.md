@@ -18,7 +18,8 @@ Here are some of the projects I’m currently working on:
 
 - **Panelista**: A platform designed to help event organizers find and book diverse speakers, improving representation at events. [View Project](https://panelista.ch/home)
 - **SiteSeeing**: A Google Chrome extension to rate and comment various websites.
-- **Motion**: A social media application created as a project during a bootcamp at Constructor Academy. [Project Demo](https://alikuzucu.github.io/Motion/)
+- **Motion**: A social networking app where users can create posts, explore profiles, follow or unfollow others, and send friend requests. [Project Demo](https://alikuzucu.github.io/Motion/)
+- **Luna**: A restaurant review and rating application that allows users to discover top-rated food spots and engage with fellow food enthusiasts. [Project Demo](https://alikuzucu.github.io/Luna/)
 
 Explore my repositories for more insights into my work!
 
