@@ -16,7 +16,7 @@ I specialize in creating user-centered solutions that blend both front-end and b
 
 Here are some of the projects I’m currently working on:
 
-- **Panelista**: A platform that empowers event organizers to discover and book diverse speakers, enhancing representation and enriching events with varied perspectives. [View Project](https://panelista.ch/home)
+- **Panelista**: A platform that empowers event organizers to discover and book diverse speakers, enhancing representation and enriching events with varied perspectives. [View Project](https://dev.panelista.ch/sign-up)
 - **Motion**: A social networking app where users can create posts, explore profiles, follow or unfollow others, and send friend requests. [Project Demo](https://alikuzucu.github.io/Motion/)
 - **Luna**: A restaurant review and rating application that allows users to discover top-rated food spots and engage with fellow food enthusiasts. [Project Demo](https://alikuzucu.github.io/Luna/)
 
