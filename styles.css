@@ -183,11 +183,21 @@ a {
     }
 }
 
+/* Services Section */
+#services {
+    background-color: rgba(255, 255, 255, 0.15);
+    color: white;
+    padding: 60px;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
 /* Experience Section */
 #experience {
     background-color: rgba(255, 255, 255, 0.15);
     color: white;
     padding: 60px;
+    margin: 30px 0;
     border-radius: 15px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
 }
