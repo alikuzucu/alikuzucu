@@ -16,8 +16,7 @@ I specialize in creating user-centered solutions that blend both front-end and b
 
 Here are some of the projects I’m currently working on:
 
-- **Panelista**: A platform that empowers event organizers to discover and book diverse speakers, enhancing representation and enriching events with varied perspectives. [View Project](https://panelista.ch/home)
-- **SiteSeeing**: A Google Chrome extension that enables users to easily rate and comment on their favorite websites. With SiteSeeing, users can share their experiences, provide feedback, and discover insights from other users. [Work in Progress](#)
+- **Panelista**: A platform that empowers event organizers to discover and book diverse speakers, enhancing representation and enriching events with varied perspectives. [View Project](https://dev.panelista.ch/sign-up)
 - **Motion**: A social networking app where users can create posts, explore profiles, follow or unfollow others, and send friend requests. [Project Demo](https://alikuzucu.github.io/Motion/)
 - **Luna**: A restaurant review and rating application that allows users to discover top-rated food spots and engage with fellow food enthusiasts. [Project Demo](https://alikuzucu.github.io/Luna/)
 
@@ -26,7 +25,7 @@ Explore my repositories for more insights into my work!
 ## 🛠️ Technical Skills
 
 **Frontend Development:**
-- **Languages:** HTML5, CSS3, JavaScript (ES6)
+- **Languages:** HTML5, CSS3, JavaScript (ES6), TypeScript
 - **Frameworks & Libraries:** React, Redux, Tailwind CSS
 - **Techniques:** Responsive Design, Single Page Applications, API Integration, DOM Manipulation, React Forms, React Router, Social Authentication, Custom Hooks, Styled Components
 
